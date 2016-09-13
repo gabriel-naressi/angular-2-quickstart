@@ -1,0 +1,19 @@
+{
+  "name": "angular_2_quickstart",
+  "version": "1.0.0",
+  "description": "Um teste com angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-naressi/angular-2-quickstart.git"
+  },
+  "author": "Gabriel Naressi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-naressi/angular-2-quickstart/issues"
+  },
+  "homepage": "https://github.com/gabriel-naressi/angular-2-quickstart#readme"
+}
