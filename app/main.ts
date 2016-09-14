@@ -1,5 +1,5 @@
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
-import { AppModule } from './app.module';
+import { AppModule } from '../modules/app.module';
 
 //tsc -w    **equivalente ao npm run watch
 //tsc       **equivalente ao npm run build
